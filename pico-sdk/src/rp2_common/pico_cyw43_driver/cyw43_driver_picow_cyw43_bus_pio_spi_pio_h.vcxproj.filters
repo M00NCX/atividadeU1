@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\COMPUTER ENGINEER\Embeded Systems\embarcaTech\EmbarcaTechU4C6\I2C_DisplayEmC\CMakeFiles\043a4bf2b069032b139ef72d4b8d6ebb\cyw43_bus_pio_spi.pio.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\COMPUTER ENGINEER\Embeded Systems\embarcaTech\EmbarcaTechU4C6\I2C_DisplayEmC\CMakeFiles\d1151895844e81a921bebffb744ef245\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\dry_2\.pico-sdk\sdk\2.1.0\src\rp2_common\pico_cyw43_driver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\COMPUTER ENGINEER\Embeded Systems\embarcaTech\EmbarcaTechU4C6\I2C_DisplayEmC\pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A6D35665-1AE4-3425-9442-274D3958552B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
